@@ -1,0 +1,7 @@
+{
+  "name": "Quote api",
+  "description": "quoteapi",
+  "repository": "https://github.com/frmdeveloper/quote-api",
+  "logo": "https://i.ibb.co/8Xc96Xw/frm.png",
+  "stack": "container"
+}
